@@ -1,0 +1,17 @@
+.container {
+    margin: 0px 166px;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    width: 100%;
+    font-size: 14pt;
+}
+body {
+    background-image: url(bg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
