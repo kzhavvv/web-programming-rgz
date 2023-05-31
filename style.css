@@ -1,5 +1,7 @@
 .container {
     margin: 0px 166px;
+    display: flex;
+    align-items: center;
 }
 header {
     background-color: black;
@@ -14,4 +16,33 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-line {
+    padding-top: 0px;
+}
+.nav-item {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+
+    margin-right: 20px;
+    border-right: 1px solid;
+    padding-right: 5px;
+}
+.video {
+    width: 560px;
+    height: 315px;
+    margin: 30px 355px 150px;
+}
+.name_vid {
+    color: black;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: white;
+}
+.carta {
+    margin: 30px 350px 140px;
 }
