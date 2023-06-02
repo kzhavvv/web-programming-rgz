@@ -70,7 +70,7 @@ table {
     margin: 0;
 }
 .akran {
-    text-align: center;
+    text-align: left ;
     line-height: 30px;
     font-size: 20px;
     background-color: white;
@@ -103,4 +103,17 @@ table {
 .infimg {
     width: 400px;
     height: 300px;
+}
+.nachalo {
+    text-align: center;
+}
+p { 
+    margin-left:15px; /* Отступ парагрaфа слева*/ 
+    text-indent: 1.5em; /* Отступ первой строки */ 
+}
+.nav-item1 {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 50px;
 }
